@@ -33,6 +33,6 @@ Each month = one branch
 
 ### October 2025 (10-25)
 
-- Add solved problems here
+- preparing
 
 # Branch Names
