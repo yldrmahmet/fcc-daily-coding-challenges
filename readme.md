@@ -24,7 +24,12 @@ Each month = one branch
 
 ### September 2025 (09-25)
 
-- Add solved problems here
+- 09.06.2025 - Matrix Rotate
+- 09.09.25 - Unique Characters
+- 09.10.25 - Array Diff
+- 09.11.25 - Reverse Sentence
+- 09.12.25 - Screen Time
+- 09.21.25 - Video Storage
 
 ### October 2025 (10-25)
 
